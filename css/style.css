@@ -1,0 +1,169 @@
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    display: block;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background: #fff;
+    color: #434455;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+color: #4d5ae5;
+
+}
+
+.header-logo-color {
+    color: #2e2f42;
+}
+
+.menu-link {
+color: #2e2f42;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+}
+
+.address-link {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.address-link:hover,
+.address-link:focus {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
+}
+
+.hero {
+background: #2e2f42;
+}
+
+.main-h {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.main-button {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
+/* our benefits */
+
+.our-benefits-feature {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.our-benefits-text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+/* team */
+
+.our-team {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+}
+
+.team-names {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.team-role {
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+/* portfolio */
+
+.portfolio {
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+}
+
+.portfolio-list-item {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.portfolio-list-text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+/* footer */
+
+footer {
+    background: #2e2f42;
+    color: #f4f4fd;
+}
+
+.footer-logo-color {
+    color: #f4f4fd;
+}
+
+.footer-main-text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
